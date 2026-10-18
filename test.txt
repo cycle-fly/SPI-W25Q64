@@ -1,6 +1,0 @@
-#include <stdio.h>
-int main(){
-    char* str="hello";
-    printf("%s hello,testBranch",&str);
-    return 0;
-}
